@@ -18,10 +18,10 @@
 
 ---
 
-### 🧠 Languages & Tools
+### 🧠 Languages & Tools I am currently learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,ts,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,mysql" />
 </p>
 
 ---
