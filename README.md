@@ -21,7 +21,7 @@
 ### 🧠 Languages & Tools I am currently learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,mysql,php,kotlin" />
 </p>
 
 ---
@@ -30,7 +30,6 @@
 
 | 🔹 Project | 🧰 Tech Stack | 📜 Description |
 |-------------|----------------|----------------|
-| [**Hangman Game**](https://github.com/Remynder0/hangman_game) | JavaScript, HTML, CSS | A small web app to train my JavaScript skills using API |
 | [**Portfolio Website**](https://github.com/Remynder0/Remynder0.github.io) | JavaScript, HTML, CSS | My personal portfolio website |
 
 ---
@@ -44,9 +43,9 @@
 
 ---
 
-### 🎯 Goals for 2025
+### 🎯 Goals for 2026
 
-- 💻 Deepen my skills in **Java and Web Development**
+- 💻 Deepen my skills in **Java/Kotlin and Web Development**
 - 🔐 Learn more about **Web Design and UX/UI**
 - 🤖 Explore **TypeScript and modern web frameworks (React, Vue, etc.)**
 - 🧩 Contribute to **open-source projects**
