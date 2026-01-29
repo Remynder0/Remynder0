@@ -30,7 +30,8 @@
 
 | 🔹 Project | 🧰 Tech Stack | 📜 Description |
 |-------------|----------------|----------------|
-| [**Portfolio Website**](https://github.com/Remynder0/Remynder0.github.io) | JavaScript, HTML, CSS | My personal portfolio website |
+| [**Portfolio Website**](https://github.com/Remynder0/Portfolio) | JavaScript, Node.js, TailwindCSS | My personal portfolio website |
+| [**HextechCore**](https://github.com/Remynder0/HextechCore) | JavaScript, Node.js, TailwindCSS | My personal third-paty app for league of legends|
 
 ---
 
