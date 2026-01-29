@@ -38,8 +38,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Remynder0&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remynder0&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=Remynder0&theme=tokyo-night" />
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Remynder0&theme=tokyonight" />
 </p>
 
 ---
